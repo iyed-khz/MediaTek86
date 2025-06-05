@@ -22,6 +22,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Éléments de solution", "�
 		..\..\supprimer_1.png = ..\..\supprimer_1.png
 	EndProjectSection
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MediaTek86Installeur", "MediaTek86Installeur\MediaTek86Installeur.vdproj", "{316426B2-63FA-A1C8-6890-57194AA4E6E3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -32,6 +34,10 @@ Global
 		{E7E19714-2E15-4DB3-927B-CB8763FDD9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7E19714-2E15-4DB3-927B-CB8763FDD9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7E19714-2E15-4DB3-927B-CB8763FDD9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{316426B2-63FA-A1C8-6890-57194AA4E6E3}.Debug|Any CPU.ActiveCfg = Debug
+		{316426B2-63FA-A1C8-6890-57194AA4E6E3}.Debug|Any CPU.Build.0 = Debug
+		{316426B2-63FA-A1C8-6890-57194AA4E6E3}.Release|Any CPU.ActiveCfg = Release
+		{316426B2-63FA-A1C8-6890-57194AA4E6E3}.Release|Any CPU.Build.0 = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

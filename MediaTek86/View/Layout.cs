@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DocumentFormat.OpenXml.Wordprocessing;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -55,6 +56,6 @@ namespace MediaTek86.View
     <footer class="border-top footer text-muted">
         <div class="container">
             &copy; @DateTime.Now.Year - MediaTek86.Tous droits réservés.
-        </div>
+        </Div>
     }
 }

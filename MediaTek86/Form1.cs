@@ -177,6 +177,10 @@ namespace MediaTek86
         private List<Absence> absences = new List<Absence>();
         private ListBox listBoxAbsences = new ListBox();
 
+        public FormAbsences()
+        {
+        }
+
         public FormAbsences(Personnel personnel)
         {
             this.personnel = personnel;
