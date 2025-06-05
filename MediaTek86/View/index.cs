@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace MediaTek86.Model
+namespace MediaTek86.View
 {
-    internal class Database
+    internal class index
     {
     }
 }

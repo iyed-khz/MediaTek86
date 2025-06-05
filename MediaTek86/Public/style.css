@@ -1,0 +1,28 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace MediaTek86.Public
+{
+    class style
+    {
+        /* style.css */
+
+        : root
+
+        {
+            --primary-color: #0056b3;
+            /* ... suite des variables et règles CSS */
+        }
+
+        body 
+        {
+            font-family: Arial, sans-serif;
+            /* ... suite des règles CSS */
+        }
+
+        /* ... toutes vos autres règles CSS */
+    }
+}
